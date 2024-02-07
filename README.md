@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeeemieee
-- 👀 I’m interested in Fluid Mechanics, CFD, FEM, C++, Python, MATLAB
+- 👀 I’m interested in Fluid Mechanics, FVM, LBM, (DG)FEM, C++, Python, MATLAB
 - 🌱 I’m currently learning C++, Python
 - 📫 How to reach me jaimy.g@hotmail.com
 
